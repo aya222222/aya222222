@@ -8,7 +8,9 @@ I'm working as a volunteer for three organizations(US, Japan), and freelancing.
 I love building full stack projects.
 
 
-Skills: REACT / JS / HTML / CSS/ Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js
+Skills: 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,mongodb,wasm)](https://skills.thijs.gg)
+REACT / JS / HTML / CSS/ Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js
 
 - 🔭 I’m currently working on laugh connect 
 - 🌱 I’m currently learning MERN stack 
