@@ -7,9 +7,9 @@ I love building full stack projects.
 
 
 Skills: <br>
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,nodejs,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,redux)](https://skillicons.dev)
 <br>
-REACT / JS / HTML / CSS/ Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js
+REACT / JS / HTML / CSS / Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js
 
 - 🔭 I’m currently working as freelance
 - 🌱 I’m currently learning MERN stack 
