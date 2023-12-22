@@ -2,14 +2,13 @@
 
 I'm Aya, a self-taught software engineer lives in Canada(originally from Japan). 
 I love learning new technologies and building apps with what I learned. 
-I'm working as a volunteer for three organizations(US, Japan), and freelancing. 
-I love building full stack projects.
+I'm working as a full-stack engineer.
 
 
 Skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,redux)](https://skillicons.dev)
 <br>
-REACT / JS / HTML / CSS / Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js
+REACT / JS / HTML / CSS / Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js / Python / FastAPI
 
 - 🔭 I’m currently working as freelance
 - 🌱 I’m currently learning MERN stack 
