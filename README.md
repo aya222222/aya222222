@@ -10,7 +10,7 @@ Skills: <br>
 <br>
 REACT / JS / HTML / CSS / Tailwind / Redux / Redux Toolkit / MongoDB / Node.js / Express.js / Python / FastAPI / SQL
 
-> - 🔭I’m currently working for satis
+<!-- - 🔭I’m currently working for satis -->
 - 🌱 I’m currently learning database
 
 
